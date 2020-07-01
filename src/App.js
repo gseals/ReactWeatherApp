@@ -26,7 +26,7 @@ function App() {
     let month = months[d.getMonth()];
     let year = d.getFullYear();
 
-    return `${day} ${month} ${date}, ${year}`
+    return `${day}, ${month} ${date}, ${year}`
   }
   return (
     <div className={(typeof weather.main != "undefined") ? 

@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
-* This application utilizes the [openweathermap](https://openweathermap.org/api) API and allows users to search for current weather based on city name. For good measure, since the API doesn't specify the state the city is in, latitude and longitude are also listed to provide more specificity. The background changes based on the temperature: at or below 60°F renders a cooler colored background; at or above 61°F renders a warmer colored background.
+* This application utilizes the [openweathermap API](https://openweathermap.org/api) and allows users to search for current weather based on city name. For good measure, since the API doesn't specify the state the city is in, latitude and longitude are also listed to provide more specificity. The background changes based on the temperature: at or below 60°F renders a cooler colored background; at or above 61°F renders a warmer colored background.
 
 ## Demo Link
 

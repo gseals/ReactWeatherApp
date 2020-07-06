@@ -22,16 +22,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Screenshots
 
 Landing Page
-![Landing Page](https://cdn.pixabay.com/photo/2017/08/04/05/37/coming-soon-2579123_960_720.jpg)
+![Landing Page](https://raw.githubusercontent.com/gseals/ReactWeatherApp/master/screenshots/Landing%20Page.png)
 
-Search Results Below 60
-![Search Results Below 60](https://cdn.pixabay.com/photo/2017/08/04/05/37/coming-soon-2579123_960_720.jpg)
+Search Results Below 60°F
+![Search Results Below 60](https://raw.githubusercontent.com/gseals/ReactWeatherApp/master/screenshots/Search%20Results%20below%2060.png)
 
-Search Results Above 60
-![Search Results Above 60](https://cdn.pixabay.com/photo/2017/08/04/05/37/coming-soon-2579123_960_720.jpg)
+Search Results Above 61°F
+![Search Results Above 60](https://raw.githubusercontent.com/gseals/ReactWeatherApp/master/screenshots/Search%20Results%20above%2060.png)
 
 Mobile View
-![Mobile View](https://cdn.pixabay.com/photo/2017/08/04/05/37/coming-soon-2579123_960_720.jpg)
+![Mobile View](https://raw.githubusercontent.com/gseals/ReactWeatherApp/master/screenshots/Mobile%20View.png)
 
 ## How to Run
 

@@ -2,9 +2,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # React Weather App Version 1.0 (works best on mobile)
 
+## Description
+
+* This application utilizes the [openweathermap](https://openweathermap.org/api) API and allows users to search for current weather based on city name. For good measure, since the API doesn't specify the state the city is in, latitude and longitude are also listed to provide more specificity. The background changes based on the temperature: at or below 60°F renders a cooler colored background; at or above 61°F renders a warmer colored background.
+
 ## Demo Link
 
-* [Check out the project](https://reactweatherapp-51133.firebaseapp.com)
+* [Check out the Project](https://reactweatherapp-51133.firebaseapp.com)
 
 ## Technologies Used
 
@@ -14,10 +18,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * [ReactDOM 16.13.1](https://www.npmjs.com/package/react-dom)
 * [ReactJS 16.13.1](https://reactjs.org/docs/create-a-new-react-app.html)
 * [React Hooks](https://reactjs.org/docs/hooks-intro.html)
-
-## Description
-
-* This application utilizes the [openweathermap](https://openweathermap.org/api) API and allows users to search for current weather based on city name. For good measure, since the API doesn't specify the state the city is in, latitude and longitude are also listed to provide more specificity. The background changes based on the temperature: at or below 60°F renders a cooler colored background; at or above 61°F renders a warmer colored background.
 
 ## Screenshots
 
